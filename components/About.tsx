@@ -20,7 +20,7 @@ export default function About() {
             />
             <div className="relative text-center text-white p-12">
               <p className="text-7xl font-extrabold mb-2">8</p>
-              <p className="text-lg font-semibold opacity-80">ans d'expertise</p>
+              <p className="text-lg font-semibold opacity-80">ans d&apos;expertise</p>
               <div className="mt-8 grid grid-cols-2 gap-4 text-sm">
                 <div className="bg-white/10 rounded-xl p-4">
                   <p className="text-2xl font-bold">120+</p>
@@ -49,14 +49,14 @@ export default function About() {
             Qui sommes-nous
           </span>
           <h2 className="mt-3 text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight">
-            L'agence qui pense{" "}
+            L&apos;agence qui pense{" "}
             <span className="text-brand-500">digital</span>{" "}
             différemment
           </h2>
           <p className="mt-6 text-gray-500 leading-relaxed">
             Fondée en 2016 à Paris, Pixel & Co regroupe une équipe de designers,
-            développeurs et stratèges passionnés. Nous croyons qu'un bon site web
-            n'est pas juste beau — il doit performer, convertir et évoluer avec
+            développeurs et stratèges passionnés. Nous croyons qu&apos;un bon site web
+            n&apos;est pas juste beau — il doit performer, convertir et évoluer avec
             votre entreprise.
           </p>
           <p className="mt-4 text-gray-500 leading-relaxed">
